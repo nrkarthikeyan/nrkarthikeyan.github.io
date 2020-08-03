@@ -34,7 +34,7 @@ author_profile: true
 15. J. J. Thiagarajan, K. N. Ramamurthy, and A. Spanias, "Optimality and Stability of the K-hyperline Clustering Algorithm," *Pattern Recognition Letters*, 2011.
 16. K. N. Ramamurthy, J. J. Thiagarajan, P. Sattigeri, and A. Spanias, "Transform Domain Features for Ion-channel Signal Classification", *Biomedical Signal Processing and Control*, 2010.
  
-### Conference Proceedings
+### Conference Proceedings (from 2018 - see CV for the full list)
  
 1. D. Wei, K. N. Ramamurthy, and F. Calmon "Optimized Score Transformation for Fair Classification," *AISTATS*, 2020 (to appear). paper code
 2. P. Zhao, P.-Y. Chen, Payel Das, K. N. Ramamurthy, and X. Lin, "Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness," *ICLR*, 2020.
