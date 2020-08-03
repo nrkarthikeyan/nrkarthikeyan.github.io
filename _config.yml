@@ -173,14 +173,14 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  patents:
-    output: true
-    permalink: /:collection/:path/
+# # Collections
+# collections:
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   patents:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,6 +209,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
