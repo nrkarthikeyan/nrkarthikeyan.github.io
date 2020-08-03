@@ -210,6 +210,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _CV
+  - scope:
+      path: ""
+      type: CV
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
